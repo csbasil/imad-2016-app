@@ -41,7 +41,7 @@ function createTemplate(data) {
             </div>
             <div class="menubar">
                 <ul>
-                    <li style="font-weight:bold;border-left:1px solid skyblue;">IMAD</li>
+                    <li style="color:skyblue;">IMAD</li>
                     <li><a href="/">Home</a></li>
                     <li><a href="/article-one">Article One</a></li>
                     <li><a href="/article-two">Article Two</a></li>

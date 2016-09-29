@@ -30,15 +30,18 @@ body {
 .menubar{
     width: 800px;
     margin:0 auto;
-    border:1px solid #808080;
-    border-radius:5px;
+   
 }
 .menubar ul{
+    border:1px solid #808080;
+    border-radius:5px;
     list-style:none;
 }
 .menubar ul li{
     float:left;
     padding:8px;
     background-color:navy;
+}
+.menubar ul li a{
     color:#fff;
 }

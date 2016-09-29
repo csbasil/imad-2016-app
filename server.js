@@ -37,7 +37,7 @@ function createTemplate(data) {
         
         <div class="container">
             <div class="header">
-                <img src="ui/madi.png" style="width:80px;height:55px;float:left;"/>
+                <img src="ui/madi.png" style="width:80px;height:65px;float:left;"/>
             </div>
             <div class="menubar">
                 <ul>

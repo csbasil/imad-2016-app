@@ -50,8 +50,8 @@ function createTemplate(data) {
             </div>
             <hr style='color:skyblue;'>
             <h3>${title}</h3>
-            <div>${date}</div>
-            <div>
+            <div class="date">${date}</div>
+            <div class="content">
                 ${content}
             </div>
         </div>

@@ -37,11 +37,11 @@ function createTemplate(data) {
         
         <div class="container">
             <div class="header">
-                <img src="ui/madi.png" style="width:100px;height:75px;float:left;"/> IMAD APP
+                <img src="ui/madi.png" style="width:100px;height:75px;float:left;"/>
             </div>
             <div class="menubar">
                 <ul>
-                    <li>IMAD</li>
+                    <li style="font-weight:bold;font-size:15px;">IMAD</li>
                     <li><a href="/">Home</a></li>
                     <li><a href="/article-one">Article One</a></li>
                     <li><a href="/article-two">Article Two</a></li>

@@ -42,11 +42,12 @@ body {
 }
 .menubar ul li{
     float:left;
-}
-.menubar ul li a{
     padding:0;
     padding-left:10px;
     padding-right:10px;
+}
+.menubar ul li a{
+    padding:0;
     color:#fff;
     text-decoration:none;
 }

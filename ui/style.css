@@ -24,7 +24,7 @@ h3{
 }
 
 .container{
-    width:800px;
+    width:1000px;
     margin:0 auto;
     color: #808080;
     font-family:sans-serif;
@@ -32,7 +32,7 @@ h3{
     padding-right:50px;
 }
 .menubar{
-    width: 800px;
+    width: 1000px;
     margin:0 auto;
 }
 .menubar ul{

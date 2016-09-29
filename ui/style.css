@@ -39,11 +39,10 @@ body {
     border:1px solid #808080;
     border-radius:5px;
     list-style:none;
+    background-color:black;
 }
 .menubar ul li{
     float:left;
-    padding:5px;
-    background-color:black;
 }
 .menubar ul li a{
     color:#fff;

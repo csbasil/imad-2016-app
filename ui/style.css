@@ -39,7 +39,7 @@ body {
 }
 .menubar ul li{
     float:left;
-    padding:8px;
+    padding:5px;
     background-color:navy;
 }
 .menubar ul li a{

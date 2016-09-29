@@ -35,7 +35,14 @@ function createTemplate(data) {
         </head>
         <body>
         <div class="container">
-            <div><a href="/">Home</a></div>
+            <div class="menubar">
+                <ul>
+                    <li><a href="/">Home</a></li>
+                    <li><a href="/article-one">Article One</a></li>
+                    <li><a href="/article-Two">Article Two</a></li>
+                    <li><a href="/article-Three">Article Three</a></li>
+                </ul>
+            </div>
             <hr/>
             <h3>${title}</h3>
             <div>${date}</div>

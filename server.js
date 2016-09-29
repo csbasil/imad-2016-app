@@ -34,7 +34,11 @@ function createTemplate(data) {
               <link href="/ui/style.css" rel="stylesheet" />
         </head>
         <body>
+        
         <div class="container">
+            <div class="header">
+                <img src="ui/madi.png" style="width:100px;height:75px;float:left;"/> IMAD APP
+            </div>
             <div class="menubar">
                 <ul>
                     <li><a href="/">Home</a></li>

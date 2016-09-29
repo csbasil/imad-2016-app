@@ -9,7 +9,7 @@ var articles={
     'article-one':{
         title:'Article One',
         date:'10 sep, 2016',
-        content:'<p>Data for Article One</p>'
+        content:'<p>This is Data for Article One as a part of the NPTEL online course for Introductio to Modern Application Develompent</p>'
     },
     'article-two':{
         title:'Article Two',
@@ -41,6 +41,7 @@ function createTemplate(data) {
             </div>
             <div class="menubar">
                 <ul>
+                    <li>IMAD</li>
                     <li><a href="/">Home</a></li>
                     <li><a href="/article-one">Article One</a></li>
                     <li><a href="/article-two">Article Two</a></li>

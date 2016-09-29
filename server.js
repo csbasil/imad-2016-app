@@ -47,7 +47,7 @@ function createTemplate(data) {
                     <li><a href="/article-two">Article Two</a></li>
                     <li><a href="/article-three">Article Three</a></li>
                 </ul>
-            </div>
+            </div><br>
             <hr style='color:skyblue;'>
             <h3>${title}</h3>
             <div class="date">${date}</div>

@@ -34,8 +34,7 @@ body {
 .menubar ul{
     width:800px;
     height:50px;
-    padding:0;
-    margin:0;
+    padding:0;margin:0;
     border:1px solid skyblue;
     border-radius:5px;
     list-style:none;

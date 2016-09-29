@@ -60,3 +60,10 @@ h3{
     color:skyblue;
     text-decoration:none;
 }
+.date{
+    font-size:11px;
+    text-decoration:italic;
+}
+.content{
+    text-align:justify;
+}

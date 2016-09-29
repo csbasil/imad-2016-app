@@ -44,6 +44,7 @@ body {
     float:left;
 }
 .menubar ul li a{
+    padding:0;
     padding-left:10px;
     padding-right:10px;
     color:#fff;

@@ -63,7 +63,7 @@ h3{
 }
 .date{
     font-size:12px;
-    text-decoration:italic;
+    font-style:italic;
 }
 .content{
     text-align:justify;

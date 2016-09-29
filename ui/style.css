@@ -27,3 +27,18 @@ body {
     padding-left:50px;
     padding-right:50px;
 }
+.menubar{
+    width: 800px;
+    margin:0 auto;
+    background-color:navy;
+    color:#fff;
+    border:1px solid #808080;
+    border-radius:5px;
+}
+.menubar ul{
+    list-style:none;
+}
+.menubar ul li{
+    float:left;
+    padding:8px;
+}
